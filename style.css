@@ -10,9 +10,9 @@ body {
   color: white;
 }
 
-.header-secondary {
+.header--secondary {
   color: #ffffff;
-  font-weight: 300px;
+  font-weight: 300;
   foont-size: 42px;
 }
 
